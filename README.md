@@ -13,7 +13,7 @@ et la transformation de données brutes en **décisions exploitables**.
 
 - 🎓 Formation : **Ingénierie informatique**
 - 📊 Spécialisation : **Data Science / Analyse de données**
-- 🧠 Objectif : devenir **Data Scientist / Data Engineer**, puis poursuivre en **doctorat**
+- 🧠 Objectif : devenir **Data Scientist / Data Engineer**
 - 🛠️ J’aime travailler sur des projets concrets, mesurables et utiles
 
 ---
