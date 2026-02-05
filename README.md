@@ -101,23 +101,33 @@ J’aime construire des projets concrets, clairs et maintenables.
 </div>
 
 ---
+## 📊 GitHub Analytics
 
-## 📈 GitHub Analytics
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Warren27026&show_icons=true&hide_border=true&bg_color=050B18&title_color=22D3EE&icon_color=0EA5E9&text_color=E5E7EB" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Warren27026&show_icons=true&theme=github_dark&hide_border=true"
+  height="160"
+/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warren27026&layout=compact&hide_border=true&bg_color=050B18&title_color=22D3EE&text_color=E5E7EB" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warren27026&layout=compact&theme=github_dark&hide_border=true"
+  height="160"
+/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=Warren27026&theme=dark&hide_border=true&background=050B18&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE" />
+<img
+  src="https://streak-stats.demolab.com?user=Warren27026&theme=github-dark&hide_border=true"
+  height="160"
+/>
 
 </div>
+
 
 ---
 
 ## 🔗 Liens
 - GitHub : `https://github.com/Warren27026`
-- LinkedIn : *(à ajouter)*
-- Email : *(à ajouter)*
+- LinkedIn : Betchem Ngon Warren Shamir
+- Email : warrenshamir10@gmail.com
 
 > `Étudier • Construire • Progresser`
