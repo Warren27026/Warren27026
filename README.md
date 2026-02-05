@@ -1,11 +1,15 @@
-<!-- HERO / ACCUEIL -->
+<!-- =========================
+     WARREN • PROFILE README
+     Charte: Navy / Cyan (tech)
+========================== -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Bonjour%2C+je+suis+Warren+Shamir;Étudiant+ingénieur+en+informatique+%E2%80%93+ENSIM" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=4000&pause=1200&color=22D3EE&center=true&vCenter=true&width=980&lines=Bonjour%2C+je+suis+Warren+Shamir;Étudiant+ingénieur+en+informatique+%E2%80%93+ENSIM" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Statut-Étudiant_en_informatique-22D3EE?style=for-the-badge&labelColor=050B18" />
-  <img src="https://img.shields.io/badge/📍_Localisation-Le_Mans%2C_France-0EA5E9?style=for-the-badge&labelColor=050B18" />
+  <img src="https://img.shields.io/badge/ENSIM-4e_année-22D3EE?style=for-the-badge&labelColor=050B18" />
+  <img src="https://img.shields.io/badge/Le_Mans-France-0EA5E9?style=for-the-badge&labelColor=050B18" />
 </p>
 
 <p align="center">
@@ -13,38 +17,40 @@
   <img src="https://img.shields.io/github/followers/Warren27026?label=ABONNÉS&style=for-the-badge&color=0EA5E9&labelColor=050B18" />
 </p>
 
+<!-- Mini “card” visuelle -->
+<div align="center">
+
+| 🎓 Profil | 🧠 Domaines | 🧰 Stack |
+|---|---|---|
+| Étudiant en informatique (ENSIM) | Développement • ML • DL | Web • Mobile • Docker • BI |
+
 </div>
+
+</div>
+
+<br/>
 
 ---
 
-## 👋 Accueil
+## ⚡ Présentation
 
-Étudiant en **informatique à l’ENSIM (Le Mans Université)**,  
-je m’intéresse au **développement logiciel**, à la **programmation web et mobile**,  
-ainsi qu’aux domaines du **machine learning** et du **deep learning**.
-
-Je conçois des projets allant de la **programmation classique**  
-à des **applications orientées données** et modèles d’apprentissage automatique.
+Étudiant en **informatique à l’ENSIM (Le Mans Université)**.  
+Je m’intéresse au **développement logiciel**, à la **programmation web et mobile**, ainsi qu’aux bases du **machine learning** et du **deep learning**.  
+J’aime construire des projets concrets, clairs et maintenables.
 
 ---
 
 ## 🧠 Domaines
 
-- **Développement logiciel**  
-  Programmation structurée, orientée objet, conception d’applications
-
-- **Programmation web & mobile**  
-  Interfaces, logique applicative, développement Android
-
-- **Machine Learning**  
-  Modèles supervisés, expérimentation, évaluation
-
-- **Deep Learning**  
-  Réseaux de neurones, concepts fondamentaux et implémentations de base
+- **Développement logiciel** : conception, programmation, structuration d’applications  
+- **Programmation web** : interfaces, logique applicative, intégration  
+- **Programmation mobile** : développement Android (environnement et outils)  
+- **Machine Learning** : expérimentation, modèles supervisés, évaluation  
+- **Deep Learning** : réseaux de neurones, notions fondamentales  
 
 ---
 
-## 🛠️ Compétences
+## 🧰 Stack Technique
 
 ### 💻 Langages
 <div align="center">
@@ -61,19 +67,29 @@ Je conçois des projets allant de la **programmation classique**
 
 ---
 
-### 🌐 Web & Mobile
+### 🌐 Web
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-050B18?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-050B18?style=for-the-badge&logo=css3&logoColor=3B82F6)
 ![Angular](https://img.shields.io/badge/Angular-050B18?style=for-the-badge&logo=angular&logoColor=EF4444)
+![React](https://img.shields.io/badge/React-050B18?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Vue.js](https://img.shields.io/badge/Vue.js-050B18?style=for-the-badge&logo=vuedotjs&logoColor=22C55E)
+
+</div>
+
+---
+
+### 📱 Mobile
+<div align="center">
+
 ![Android Studio](https://img.shields.io/badge/Android_Studio-050B18?style=for-the-badge&logo=androidstudio&logoColor=22C55E)
 
 </div>
 
 ---
 
-### 🤖 Machine Learning, BI & DevOps
+### 🤖 ML / BI / DevOps
 <div align="center">
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-050B18?style=for-the-badge&logo=scikitlearn&logoColor=FACC15)
@@ -86,7 +102,7 @@ Je conçois des projets allant de la **programmation classique**
 
 ---
 
-## 📈 Activité GitHub
+## 📈 GitHub Analytics
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Warren27026&show_icons=true&hide_border=true&bg_color=050B18&title_color=22D3EE&icon_color=0EA5E9&text_color=E5E7EB" />
@@ -98,5 +114,10 @@ Je conçois des projets allant de la **programmation classique**
 </div>
 
 ---
+
+## 🔗 Liens
+- GitHub : `https://github.com/Warren27026`
+- LinkedIn : *(à ajouter)*
+- Email : *(à ajouter)*
 
 > `Étudier • Construire • Progresser`
