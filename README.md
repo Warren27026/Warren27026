@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Warren27026&style=for-the-badge&color=22D3EE&label=VUES_DU_PROFIL" />
-  <img src="https://img.shields.io/github/followers/Warren27026?label=ABONNÉS&style=for-the-badge&color=0EA5E9&labelColor=050B18" />
 </p>
 
 <!-- Mini “card” visuelle -->
