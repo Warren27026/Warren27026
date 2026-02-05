@@ -101,26 +101,7 @@ J’aime construire des projets concrets, clairs et maintenables.
 </div>
 
 ---
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Warren27026&show_icons=true&theme=github_dark&hide_border=true"
-  height="160"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warren27026&layout=compact&theme=github_dark&hide_border=true"
-  height="160"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Warren27026&theme=github-dark&hide_border=true"
-  height="160"
-/>
-
-</div>
 
 
 ---
