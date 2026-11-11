@@ -18,7 +18,7 @@
 
 | Profil | Domaines | Stack |
 |---|---|---|
-| Étudiant en informatique (ENSIM) | Développement • ML • DL | Web • Mobile • Docker • BI |
+| Étudiant en informatique (ENSIM) | Développement • ML • DL | Frontend • Backend • Mobile • Docker • BI |
 
 </div>
 
@@ -29,7 +29,7 @@
 ## Présentation
 
 Étudiant en **informatique à l’ENSIM (Le Mans Université)**.  
-Je m’intéresse au **développement logiciel**, à la **programmation web et mobile**, ainsi qu’aux bases du **machine learning** et du **deep learning**.  
+Je m’intéresse au **développement logiciel**, au **développement web frontend et backend**, à la **programmation mobile**, ainsi qu’aux bases du **machine learning** et du **deep learning**.  
 J’aime construire des projets concrets, clairs et maintenables.
 
 ---
@@ -37,7 +37,8 @@ J’aime construire des projets concrets, clairs et maintenables.
 ## Domaines
 
 - **Développement logiciel** : conception, programmation, structuration d’applications
-- **Programmation web** : interfaces, logique applicative, intégration
+- **Développement frontend** : interfaces web, intégration et interactions utilisateur
+- **Développement backend** : logique applicative, services et gestion des données
 - **Programmation mobile** : développement Android (environnement et outils)
 - **Machine Learning** : expérimentation, modèles supervisés, évaluation
 - **Deep Learning** : réseaux de neurones, notions fondamentales
@@ -62,15 +63,29 @@ J’aime construire des projets concrets, clairs et maintenables.
 
 ---
 
-### Web
+### Frontend
 
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-050B18?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-050B18?style=for-the-badge&logo=css3&logoColor=3B82F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-050B18?style=for-the-badge&logo=javascript&logoColor=FACC15)
 ![Angular](https://img.shields.io/badge/Angular-050B18?style=for-the-badge&logo=angular&logoColor=EF4444)
 ![React](https://img.shields.io/badge/React-050B18?style=for-the-badge&logo=react&logoColor=22D3EE)
 ![Vue.js](https://img.shields.io/badge/Vue.js-050B18?style=for-the-badge&logo=vuedotjs&logoColor=22C55E)
+
+</div>
+
+---
+
+### Backend
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-050B18?style=for-the-badge&logo=python&logoColor=22D3EE)
+![Java](https://img.shields.io/badge/Java-050B18?style=for-the-badge&logo=openjdk&logoColor=F97316)
+![C#](https://img.shields.io/badge/C%23-050B18?style=for-the-badge&logo=csharp&logoColor=22C55E)
+![SQL](https://img.shields.io/badge/SQL-050B18?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
 
 </div>
 
@@ -80,6 +95,7 @@ J’aime construire des projets concrets, clairs et maintenables.
 
 <div align="center">
 
+![Kotlin](https://img.shields.io/badge/Kotlin-050B18?style=for-the-badge&logo=kotlin&logoColor=8B5CF6)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-050B18?style=for-the-badge&logo=androidstudio&logoColor=22C55E)
 
 </div>
