@@ -57,7 +57,7 @@ J’aime construire des projets concrets, clairs et maintenables.
 ![C](https://img.shields.io/badge/C-050B18?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C#](https://img.shields.io/badge/C%23-050B18?style=for-the-badge&logo=csharp&logoColor=22C55E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-050B18?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![SQL](https://img.shields.io/badge/SQL-050B18?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+
 
 </div>
 
